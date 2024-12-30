@@ -1,5 +1,5 @@
 @media screen and (max-width: 970px ){
-    .cards{
+    .shop_card{
         flex-wrap: wrap;
     }
     .card{
@@ -12,6 +12,7 @@
     .nav{
         display: none;
     }
+
 }
 
 @media screen and (max-width: 800px ){
